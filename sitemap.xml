@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- À REMPLACER : VOTRE-PSEUDO-GITHUB par votre nom d'utilisateur GitHub,
+     puis la date de <lastmod> à chaque mise à jour importante du contenu. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://nourchouari.github.io/Anno-automatisation/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nourchouari.github.io/Anno-automatisation/mentions-legales.html</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+</urlset>

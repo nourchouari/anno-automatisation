@@ -1,0 +1,35 @@
+# ---------------------------------------------------------------------------
+# Anno — fichiers à ne jamais envoyer sur GitHub
+# ---------------------------------------------------------------------------
+
+# Systèmes d'exploitation
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dépendances et outils (le site n'en utilise aucun, mais au cas où)
+node_modules/
+package-lock.json
+.cache/
+dist/
+build/
+
+# Secrets — rien de sensible ne doit partir dans le dépôt
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+config.local.*
+
+# Fichiers temporaires
+*.log
+*.tmp
